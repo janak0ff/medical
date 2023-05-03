@@ -1,0 +1,542 @@
+// ========================== vid address ====================
+// var video_idname = "1xYLyOb8fddfsgsfgxxh1QG/Acne";
+// var vdorul = "https://example.com/e/" + video_idname + ".mp4";
+// document.getElementById("acnevdo").setAttribute("href", vdorul);
+// // ------------------------------
+
+// function addHref() {
+// 	var link = document.getElementById("myLink");
+// 	link.setAttribute("href", "https://www.example.com");
+// }
+
+//     id="aAdvancedLipidTesting" onclick="aAdvancedLipidTesting()"
+
+
+
+//  Cardiovascular Medicine
+const aAdvancedLipidTesting = () => {
+    let link = document.getElementById("aAdvancedLipidTesting");
+    link.setAttribute("href", "https://streamtape.com/e/P3X20ajQ3efBxe");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const MyocardialInfarction = () => {
+    let link = document.getElementById("MyocardialInfarction");
+    link.setAttribute("href", "https://streamtape.com/e/bvgkldJKdvhPV4M");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+const Atherosclerosis = () => {
+    let link = document.getElementById("Atherosclerosis");
+    link.setAttribute("href", "https://streamtape.com/e/xOrkMaqjD9hkLe7");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+const Cholesterol = () => {
+    let link = document.getElementById("Cholesterol");
+    link.setAttribute("href", "https://streamtape.com/e/DG6Xb32rz8fkO4X");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+const ComplicationsofHypertension = () => {
+    let link = document.getElementById("ComplicationsofHypertension");
+    link.setAttribute("href", "https://streamtape.com/e/a1vPG9OZz4uxwgd");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const CABG = () => {
+    let link = document.getElementById("CABG");
+    link.setAttribute("href", "https://streamtape.com/e/O6x9Oza09vHm8v");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Dyslipidemia = () => {
+    let link = document.getElementById("Dyslipidemia");
+    link.setAttribute("href", "https://streamtape.com/e/k3w4bQkA73TOvq6");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Hypertension = () => {
+    let link = document.getElementById("Hypertension");
+    link.setAttribute("href", "https://streamtape.com/e/yoxmXylYa2c1AvQ");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const PTCA = () => {
+    let link = document.getElementById("PTCA");
+    link.setAttribute("href", "https://streamtape.com/e/W8re6RpmvJhAAp");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const RegulationofBloodPressure = () => {
+    let link = document.getElementById("RegulationofBloodPressure");
+    link.setAttribute("href", "https://streamtape.com/e/kgBDwezovYcOl4B");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const StableAngina = () => {
+    let link = document.getElementById("StableAngina");
+    link.setAttribute("href", "https://streamtape.com/e/y27aR9b9Bmh1V2l");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+
+
+
+
+// Dermatology
+const Acne = () => {
+    let link = document.getElementById("Acne");
+    link.setAttribute("href", "https://streamtape.com/e/1xYLyOb8xxh1QG");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Dandruff = () => {
+    let link = document.getElementById("Dandruff");
+    link.setAttribute("href", "https://streamtape.com/e/K0oaY3WBqPuaAj");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Psoriasis = () => {
+    let link = document.getElementById("Psoriasis");
+    link.setAttribute("href", "https://streamtape.com/e/l0yv2yz1JXIdwW");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+
+// Gastroenterology
+const alcoholicLiverDisease = () => {
+    let link = document.getElementById("alcoholicLiverDisease");
+    link.setAttribute("href", "https://streamtape.com/e/vQzrWA78O3cD31");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const GERD = () => {
+    let link = document.getElementById("GERD");
+    link.setAttribute("href", "https://streamtape.com/e/3q7oY00wOVclQb");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Inflammatoryboweldisease = () => {
+    let link = document.getElementById("Inflammatoryboweldisease");
+    link.setAttribute("href", "https://streamtape.com/e/7XkWgVjJ99uAXwq");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const IrritableBowelSyndrome = () => {
+    let link = document.getElementById("IrritableBowelSyndrome");
+    link.setAttribute("href", "https://streamtape.com/e/OaqGdVAZxjcZq9K");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+
+
+
+
+// Endocrinology
+const DiabeticNeuropathy = () => {
+    let link = document.getElementById("DiabeticNeuropathy");
+    link.setAttribute("href", "https://streamtape.com/e/bQw83or1jpIP8dX");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Diabeticretinopathy = () => {
+    let link = document.getElementById("Diabeticretinopathy");
+    link.setAttribute("href", "https://streamtape.com/e/8dGGl8kWDvtl30");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Insulinresistance = () => {
+    let link = document.getElementById("Insulinresistance");
+    link.setAttribute("href", "https://streamtape.com/e/Ly90BADp9lHvYm");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Metabolicsyndrome = () => {
+    let link = document.getElementById("Metabolicsyndrome");
+    link.setAttribute("href", "https://streamtape.com/e/1J7WMrZqmzuev1e");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const typetwodiabetes = () => {
+    let link = document.getElementById("typetwodiabetes");
+    link.setAttribute("href", "https://streamtape.com/e/ogeevkw3B0hJqPA");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const obesity = () => {
+    let link = document.getElementById("obesity");
+    link.setAttribute("href", "https://streamtape.com/e/RpXbMjKoajfde6A");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const diabetes = () => {
+    let link = document.getElementById("diabetes");
+    link.setAttribute("href", "https://streamtape.com/e/YG9ee6GRLzI6x3");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+// Essential Atlas of human anatomy and psychology
+const IntroductiontoCell = () => {
+    let link = document.getElementById("IntroductiontoCell");
+    link.setAttribute("href", "https://streamtape.com/e/23yBPOWomPSAll");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const circulatorysystem = () => {
+    let link = document.getElementById("circulatorysystem");
+    link.setAttribute("href", "https://streamtape.com/e/qxYXMXz8e7iz0OW");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const DigestiveandExcretorysystem = () => {
+    let link = document.getElementById("DigestiveandExcretorysystem");
+    link.setAttribute("href", "https://streamtape.com/e/Vm60MYKL0KSKM9D");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Endocrinesystem = () => {
+    let link = document.getElementById("Endocrinesystem");
+    link.setAttribute("href", "https://streamtape.com/e/kqWgMekagRf9lj");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const immunesystem = () => {
+    let link = document.getElementById("immunesystem");
+    link.setAttribute("href", "https://streamtape.com/e/xgawDJBGkQHkK4y");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const integumentarysystem = () => {
+    let link = document.getElementById("integumentarysystem");
+    link.setAttribute("href", "https://streamtape.com/e/aqo96aqwPbHx6W2");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Muscularsystem = () => {
+    let link = document.getElementById("Muscularsystem");
+    link.setAttribute("href", "https://streamtape.com/e/oGGaaQ0xadtJ4oJ");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Nervoussystem = () => {
+    let link = document.getElementById("Nervoussystem");
+    link.setAttribute("href", "https://streamtape.com/e/Xxv6O8VvdJSDrMM");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Reproductivesystem = () => {
+    let link = document.getElementById("Reproductivesystem");
+    link.setAttribute("href", "https://streamtape.com/e/1bx3eVbg3xFx4a");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Respiratorysystem = () => {
+    let link = document.getElementById("Respiratorysystem");
+    link.setAttribute("href", "https://streamtape.com/e/lGwBYobOlXC7Ljg");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Skeletalsystem = () => {
+    let link = document.getElementById("Skeletalsystem");
+    link.setAttribute("href", "https://streamtape.com/e/kZpkv8o16ohOzbk");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+
+// Gynecology
+const menopause = () => {
+    let link = document.getElementById("menopause");
+    link.setAttribute("href", "https://streamtape.com/e/ZVaYxRM9jGHMv1");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const PolycysticOvarianSyndrome = () => {
+    let link = document.getElementById("PolycysticOvarianSyndrome");
+    link.setAttribute("href", "https://streamtape.com/e/Z1JJ0qq6oMtq0Rp");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+// Neurology
+const AlzheimerDisease = () => {
+    let link = document.getElementById("AlzheimerDisease");
+    link.setAttribute("href", "https://streamtape.com/e/qjBX8aq2zmtA0X");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Epilepsy = () => {
+    let link = document.getElementById("Epilepsy");
+    link.setAttribute("href", "https://streamtape.com/e/YK2K32oLqZUvWOM");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Migraine = () => {
+    let link = document.getElementById("Migraine");
+    link.setAttribute("href", "https://streamtape.com/e/mDKXOXAz0xtb8y0");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const neuropathicpain = () => {
+    let link = document.getElementById("neuropathicpain");
+    link.setAttribute("href", "https://streamtape.com/e/w7kA49xyDpHjKy");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const parkinsonsdisease = () => {
+    let link = document.getElementById("parkinsonsdisease");
+    link.setAttribute("href", "https://streamtape.com/e/060raYG6jjIb7zb");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const pneumococcalmeningitis = () => {
+    let link = document.getElementById("pneumococcalmeningitis");
+    link.setAttribute("href", "https://streamtape.com/e/g9bbg99KPmHq630");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const spasticity = () => {
+    let link = document.getElementById("spasticity");
+    link.setAttribute("href", "https://streamtape.com/e/r9QJDKPL2qsbRRy");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const stroke = () => {
+    let link = document.getElementById("stroke");
+    link.setAttribute("href", "https://streamtape.com/e/Lk1vXby4bzcW6D");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+
+// Oncology
+const breastcancer = () => {
+    let link = document.getElementById("breastcancer");
+    link.setAttribute("href", "https://streamtape.com/e/9yZGqM1ozqiaQJD");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const prostatecancer = () => {
+    let link = document.getElementById("prostatecancer");
+    link.setAttribute("href", "https://streamtape.com/e/kDVQdXLbKDuD0r");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+// Ophthalmology
+const Glaucoma = () => {
+    let link = document.getElementById("Glaucoma");
+    link.setAttribute("href", "https://streamtape.com/e/e27x21wVr3coYp");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const LASIKandCataract = () => {
+    let link = document.getElementById("LASIKandCataract");
+    link.setAttribute("href", "https://streamtape.com/e/P9LYypAwrMS0p1d");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+// Orthopaedics
+const Osteoarthritis = () => {
+    let link = document.getElementById("Osteoarthritis");
+    link.setAttribute("href", "https://streamtape.com/e/eVg6mYozMMIYl86");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const osteoporosis = () => {
+    let link = document.getElementById("osteoporosis");
+    link.setAttribute("href", "https://streamtape.com/e/qM3YBP6BdPfzlJq");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const postmenopausalosteoporosis = () => {
+    let link = document.getElementById("postmenopausalosteoporosis");
+    link.setAttribute("href", "https://streamtape.com/e/g2W44mboB4UqyGB");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const psoriaticarthritis = () => {
+    let link = document.getElementById("psoriaticarthritis");
+    link.setAttribute("href", "https://streamtape.com/e/3opBzJMpdjCdy3D");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+
+
+// Otolaryngology
+const otitismedia = () => {
+    let link = document.getElementById("otitismedia");
+    link.setAttribute("href", "https://streamtape.com/e/D9L3e7Jwgbtkga0");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const sinusitis = () => {
+    let link = document.getElementById("sinusitis");
+    link.setAttribute("href", "https://streamtape.com/e/QrOz4dvKyZtkvj");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+// Psychiatry
+const ADHDinChildren = () => {
+    let link = document.getElementById("ADHDinChildren");
+    link.setAttribute("href", "https://streamtape.com/e/Y6Bz2KW6xzsvPOP");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Schizophrenia = () => {
+    let link = document.getElementById("Schizophrenia");
+    link.setAttribute("href", "https://streamtape.com/e/Y7bJga8kkWhvkQk");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const Depression = () => {
+    let link = document.getElementById("Depression");
+    link.setAttribute("href", "https://streamtape.com/e/ldl0mOb6A4izA2");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const BipolarDisorder = () => {
+    let link = document.getElementById("BipolarDisorder");
+    link.setAttribute("href", "https://streamtape.com/e/mvyLQpBpd0FbjJ7");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+
+// Respiratory diseases
+const AllergicRhinitis = () => {
+    let link = document.getElementById("AllergicRhinitis");
+    link.setAttribute("href", "https://streamtape.com/e/6mmLvXOeyMIeKJ");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const ChronicAsthma = () => {
+    let link = document.getElementById("ChronicAsthma");
+    link.setAttribute("href", "https://streamtape.com/e/pLQZqKkdyDurgkW");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const COPD = () => {
+    let link = document.getElementById("COPD");
+    link.setAttribute("href", "https://streamtape.com/e/eKmqBObvDZcYDpv");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const upperRespiratorytrack = () => {
+    let link = document.getElementById("upperRespiratorytrack");
+    link.setAttribute("href", "https://streamtape.com/e/wO4OZywkabCJv9K");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+// Urology_and_Infectious_Disease
+const BenignProstaticHyperplasia = () => {
+    let link = document.getElementById("BenignProstaticHyperplasia");
+    link.setAttribute("href", "https://streamtape.com/e/mDV6kAm1krTXlP");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const hivandaids = () => {
+    let link = document.getElementById("hivandaids");
+    link.setAttribute("href", "https://streamtape.com/e/0BW01mPyZaHbPPL");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+// uncategory
+const cardiacevents = () => {
+    let link = document.getElementById("cardiacevents");
+    link.setAttribute("href", "https://streamtape.com/e/V6yVLDZMKAtKlX7");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+const DPPInhibitors = () => {
+    let link = document.getElementById("DPPInhibitors");
+    link.setAttribute("href", "https://streamtape.com/e/MPPar6G2Adh6lK");
+    setTimeout(() => {
+        link.removeAttribute("href");
+    }, 1000);
+};
+
+
+// ==============================================
+
+
